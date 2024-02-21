@@ -36,4 +36,3 @@ public class Video {
         this.url = url;
     }  
 }
-
