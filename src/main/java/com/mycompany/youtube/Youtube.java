@@ -10,7 +10,7 @@ public class Youtube {
         usuario.mostrarInfoUsuario();
         
         Usuario usuario2=new Usuario ("Blanco");
-        Comentario comment1=new Comentario("Puto el que lo lea", usuario2);
+        Comentario comment1=new Comentario("Asco de pagina", usuario2);
         System.out.println("El usuario" + usuario2.getNombre()+ "Publico el comentario"+comment1.getContenido());
     }
 }
